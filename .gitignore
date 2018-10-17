@@ -1,0 +1,18 @@
+# compiled
+*.elc
+
+# Packaging
+.cask
+
+# emacs auto generated files
+*.el~
+*.sh~
+
+# Special file and directory
+ede-projects.el
+elpa
+eshell
+projectile-bookmarks.eld
+recentf
+semanticdb/
+url/
